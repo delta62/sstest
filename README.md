@@ -34,6 +34,9 @@ VALUES
 
 SELECT *
 FROM DisplayTestResults(@Tests);
+[or]
+SELECT *
+FROM @Tests;
 
 ```
 
